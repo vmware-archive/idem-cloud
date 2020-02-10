@@ -1,6 +1,14 @@
 # idem-cloud
 Contracts for cloud providers built on POP and idem
 
+#MOVED TO GITLAB
+
+POP projects developed by Saltstack are being moved to Gitlab.
+
+The new location of idem is here:
+
+https://gitlab.com/saltstack/pop/idem-cloud
+
 # implementation
 How to implement this contract in your cloud provider:
 * Include `idem-cloud` in your requirements.txt
